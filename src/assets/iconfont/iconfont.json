@@ -1,0 +1,79 @@
+{
+  "id": "1641864",
+  "name": "shopelement",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "586970",
+      "name": "lock",
+      "font_class": "lock",
+      "unicode": "e779",
+      "unicode_decimal": 59257
+    },
+    {
+      "icon_id": "587162",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e830",
+      "unicode_decimal": 59440
+    },
+    {
+      "icon_id": "705695",
+      "name": "眼睛",
+      "font_class": "yanjing",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "791889",
+      "name": "商品",
+      "font_class": "goods-copy",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "826128",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "1727362",
+      "name": "25单据",
+      "font_class": "danju",
+      "unicode": "e89b",
+      "unicode_decimal": 59547
+    },
+    {
+      "icon_id": "1727367",
+      "name": "28体积、空间",
+      "font_class": "tijikongjian",
+      "unicode": "e89f",
+      "unicode_decimal": 59551
+    },
+    {
+      "icon_id": "1727461",
+      "name": "225默认头像",
+      "font_class": "morentouxiang",
+      "unicode": "e8c9",
+      "unicode_decimal": 59593
+    },
+    {
+      "icon_id": "1727589",
+      "name": "406报表",
+      "font_class": "baobiao",
+      "unicode": "e902",
+      "unicode_decimal": 59650
+    },
+    {
+      "icon_id": "9652336",
+      "name": "多用户",
+      "font_class": "duoyonghu",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    }
+  ]
+}
